@@ -1,5 +1,5 @@
 # GraphQL Quick Start in Java
 
-This is ngonar GraphQL class material.
+This is Java GraphQL class material.
 
 Please use this as a reference.
