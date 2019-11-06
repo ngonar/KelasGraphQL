@@ -1,4 +1,4 @@
-# GraphQL Quick Start
+# GraphQL Quick Start in Java
 
 This is ngonar GraphQL class material.
 
